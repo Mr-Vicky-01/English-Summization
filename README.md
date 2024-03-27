@@ -1,6 +1,7 @@
 # BART Large CNN Text Summarization Model
 
 This model is based on the Facebook BART (Bidirectional and Auto-Regressive Transformers) architecture, specifically the large variant fine-tuned for text summarization tasks. BART is a sequence-to-sequence model introduced by Facebook AI, capable of handling various natural language processing tasks, including summarization.
+![image](https://github.com/Mr-Vicky-01/English-Summization/assets/143078285/026ef20a-3976-4563-9cea-39ff246e5c4a)
 
 ## Model Details:
 
