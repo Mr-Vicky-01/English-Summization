@@ -61,5 +61,5 @@ gradient_accumulation_steps=16
 ![image](https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/6e8e0a18-ad4f-499b-ad38-a12bb845c0a2)
 
 ## Model 
-[Model link](https://huggingface.co/Mr-Vicky-01/conversational_sumarization) \n
-[try this model](https://huggingface.co/spaces/Mr-Vicky-01/Summarization)
+1. [Model link](https://huggingface.co/Mr-Vicky-01/conversational_sumarization)
+2. [try this model](https://huggingface.co/spaces/Mr-Vicky-01/Summarization)
