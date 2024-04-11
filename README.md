@@ -62,4 +62,4 @@ gradient_accumulation_steps=16
 
 ## Model 
 1. [Model link](https://huggingface.co/Mr-Vicky-01/conversational_sumarization)
-2. [try this model](https://huggingface.co/spaces/Mr-Vicky-01/Summarization)
+2. [Try this Model Directly](https://huggingface.co/spaces/Mr-Vicky-01/Summarization)
